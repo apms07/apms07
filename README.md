@@ -1,6 +1,6 @@
 # Olá, sou o António 👋
 
-Estudante de Sistemas de Informação e Tecnologias de Programação na UPCA, em Braga.
+Estudante de Sistemas de Informação e Tecnologias de Programação na UPCA.
 
 ## 🔧 Estou a aprender
 - C# / C / HTML / Flutter / Dart / MySQL
